@@ -1,0 +1,20 @@
+/* .formcontain1 {
+    display: flex;
+} */
+
+body {
+    /* background-image: url(https://imgmedia.lbb.in/media/2020/05/5eafca57d213323de061cf9b_1588578903903.jpg); */
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA0L2ZsMzI3NjI4ODIyMjctcHVibGljLWltYWdlLWtvbnRyMnVrLmpwZw.jpg);
+    background-size: cover;
+
+}
+
+i {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+
+#headlineText {
+      font-family: "Permanent Marker", cursive;
+      color: white;
+}
